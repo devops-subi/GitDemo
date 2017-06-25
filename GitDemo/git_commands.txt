@@ -14,3 +14,4 @@ git branch -a
 git checkout <filename>
 git diff
 git push -u origin <new_branch/existing_branch_name>
+git merge <branch_name>
